@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 230" width="300" height="230">
+  <g transform="translate(70,10)">
+    <path d="M150 0 C150 0 230 110 230 180 C230 230 195 270 150 270 C105 270 70 230 70 180 C70 110 150 0 150 0 Z" fill="#1473C9" transform="scale(0.78)"/>
+    <path d="M120 60 C95 100 85 150 95 195 C100 215 112 230 112 230 C95 215 80 190 80 165 C80 130 100 90 120 60 Z" fill="#FFFFFF" transform="scale(0.78)"/>
+    <path d="M210 195 C205 215 190 232 170 240 C195 235 215 218 222 198 C218 197 214 196 210 195 Z" fill="#FFFFFF" transform="scale(0.78)"/>
+  </g>
+  <polygon points="0,85 75,68 75,88 16,103" fill="#111111"/>
+  <polygon points="-16,120 70,111 70,131 4,139" fill="#111111"/>
+  <polygon points="-4,155 62,153 62,173 27,175" fill="#111111"/>
+</svg>

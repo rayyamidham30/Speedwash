@@ -80,7 +80,9 @@
 <body>
     <div class="auth-card">
         <div class="auth-header">
-            <div class="brand-logo"><i class="bi bi-droplet-fill"></i></div>
+            <div class="brand-logo" style="background:white; padding:6px;">
+                <img src="{{ asset('images/Logo.png') }}" alt="SPEEDWASH" style="width:100%; height:100%; object-fit:contain;">
+            </div>
             <div>
                 <h1 class="brand-name">SPEED<span>WASH</span></h1>
                 <div style="font-size:0.75rem; color:rgba(255,255,255,0.5);">Daftar akun baru</div>

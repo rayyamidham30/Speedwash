@@ -472,8 +472,8 @@
 <!-- Sidebar -->
 <aside class="sidebar" id="sidebar">
     <a href="{{ auth()->user()?->isAdmin() ? route('admin.dashboard') : route('customer.dashboard') }}" class="sidebar-brand">
-        <div class="sidebar-brand-icon">
-            <i class="bi bi-droplet-fill"></i>
+        <div class="sidebar-brand-icon" style="background:white; padding:5px;">
+            <img src="{{ asset('images/Logo.png') }}" alt="SPEEDWASH" style="width:100%; height:100%; object-fit:contain;">
         </div>
         <div class="sidebar-brand-text">SPEED<span>WASH</span></div>
     </a>

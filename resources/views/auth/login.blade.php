@@ -150,8 +150,8 @@
 
     <div class="auth-card">
         <div class="auth-header">
-            <div class="brand-logo">
-                <i class="bi bi-droplet-fill"></i>
+            <div class="brand-logo" style="background:white; padding:8px;">
+                <img src="{{ asset('images/Logo.png') }}" alt="SPEEDWASH" style="width:100%; height:100%; object-fit:contain;">
             </div>
             <h1 class="brand-name">SPEED<span>WASH</span></h1>
             <p class="brand-tagline">Cuci Motor Cepat Berbasis Teknologi</p>
